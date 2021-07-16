@@ -1,12 +1,13 @@
 .App {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 30px auto;
 }
 
 .App__title {
   font-size: 2.8em;
   line-height: 1em;
   border-bottom: 1px solid #333;
+  margin: 0 0 .6em 0;
   padding: 0 0 0.6em 0;
 }
 
