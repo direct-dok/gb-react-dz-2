@@ -1,0 +1,15 @@
+.message__items {
+    background: #d7eefa;
+    border-radius: 30px;
+    padding: 1.2em;
+    margin: 0 0 1em 0;
+}
+
+.message__name {
+    font-weight: 900;
+    font-size: 0.8em;
+}
+
+.message__content {
+    margin: 10px 0 0 0;
+}
